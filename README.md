@@ -1,0 +1,1 @@
+# Emuelec_SimplifyChinese_translation
