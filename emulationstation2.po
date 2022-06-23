@@ -15,13 +15,13 @@ msgid "Name"
 msgstr "游戏名"
 
 msgid "this game's name"
-msgstr ""
+msgstr "该游戏的名称"
 
 msgid "Description"
-msgstr "游戏描述"
+msgstr "游戏信息"
 
 msgid "this game's description"
-msgstr ""
+msgstr "该游戏的详细信息"
 
 msgid "Emulator"
 msgstr "模拟器"
@@ -552,20 +552,20 @@ msgid "CUSTOM GAME COLLECTIONS"
 msgstr "自定游戏合辑"
 
 msgid "PLEASE WAIT"
-msgstr "请稍后"
+msgstr "请稍侯"
 
 #, c-format
 msgid "%d%% (%d of %d)"
 msgstr ""
 
 msgid "Points"
-msgstr ""
+msgstr "点数"
 
 msgid "Rank"
-msgstr ""
+msgstr "排名"
 
 msgid "VIEW DETAILS"
-msgstr ""
+msgstr "查看细节"
 
 msgid "LAUNCH"
 msgstr "启动"
@@ -1029,14 +1029,11 @@ msgstr ""
 msgid "VIEW FULLSCREEN VIDEO"
 msgstr ""
 
-msgid "VIEW GAME MEDIA"
-msgstr ""
-
 msgid "COMPATIBLE CORE(S)"
-msgstr ""
+msgstr "可兼容内核"
 
 msgid "VIEW THIS GAME'S ACHIEVEMENTS"
-msgstr ""
+msgstr "查看此游戏的可获成就"
 
 msgid "GAME"
 msgstr ""
