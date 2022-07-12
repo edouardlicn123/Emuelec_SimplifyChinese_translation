@@ -1275,7 +1275,7 @@ msgid ""
 msgstr ""
 
 msgid "SCRAPING IS RUNNING. DO YOU WANT TO STOP IT?"
-msgstr "抓取进行中"
+msgstr "抓取进行中，你要停止它吗？"
 
 msgid "NO GAMES FIT THAT CRITERIA."
 msgstr "没有匹配的游戏。"
@@ -1403,10 +1403,10 @@ msgid "ANY EXTERNAL"
 msgstr ""
 
 msgid "maximum 1920x1080"
-msgstr ""
+msgstr "最大1920x1080"
 
 msgid "maximum 640x480"
-msgstr ""
+msgstr "最大640x480"
 
 msgid "MAIN MENU"
 msgstr "主菜单"
