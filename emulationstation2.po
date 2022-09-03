@@ -498,7 +498,7 @@ msgid "SORT SYSTEMS"
 msgstr "系统分类"
 
 msgid "START ON SYSTEM"
-msgstr "启动到系统"
+msgstr "启动时选择的系统"
 
 msgid "NONE"
 msgstr "无"
@@ -2093,9 +2093,6 @@ msgstr "视图画面选项"
 msgid "LIST TRANSITION STYLE"
 msgstr "画面转场样式"
 
-msgid "auto"
-msgstr ""
-
 msgid "GAME LAUNCH TRANSITION"
 msgstr "游戏启动过程"
 
@@ -2871,9 +2868,6 @@ msgstr "模拟器"
 
 msgid "Core"
 msgstr "核心"
-
-msgid "AUTO"
-msgstr "自动"
 
 msgid "GENRES"
 msgstr ""
@@ -5610,9 +5604,6 @@ msgstr "抓取器设置"
 msgid "INPUT MANUALLY"
 msgstr "手工输入"
 
-msgid "AUTO"
-msgstr "自动"
-
 msgid "THEME SYSCAROUSEL"
 msgstr "主题轮播"
 
@@ -5654,3 +5645,6 @@ msgstr "总是"
 
 msgid "IF NOT EMPTY"
 msgstr "如果非空"
+
+msgid "RETROARCH MENU"
+msgstr "RETROARCH菜单"
