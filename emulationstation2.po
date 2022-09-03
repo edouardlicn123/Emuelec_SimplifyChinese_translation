@@ -90,10 +90,10 @@ msgid "enter path to map"
 msgstr "输入地图路径"
 
 msgid "Bezel (16:9)"
-msgstr ""
+msgstr "外框(16:9)"
 
 msgid "enter path to bezel (16:9)"
-msgstr ""
+msgstr "输入到外框的路径(16:9)"
 
 msgid "Cartridge"
 msgstr "存储器"
@@ -141,13 +141,13 @@ msgid "Developer"
 msgstr "开发者"
 
 msgid "this game's developer"
-msgstr ""
+msgstr "该游戏的开发者"
 
 msgid "Publisher"
 msgstr "发行商"
 
 msgid "this game's publisher"
-msgstr ""
+msgstr "该游戏的发行商"
 
 msgid "Genre"
 msgstr "游戏类型"
@@ -1671,6 +1671,7 @@ msgstr "增强"
 
 msgid "INSTANT"
 msgstr ""
+
 
 msgid "SCREEN READER (TEXT TO SPEECH)"
 msgstr ""
@@ -5605,3 +5606,33 @@ msgstr "发现可用更新"
 
 msgid "SCRAPER SETTINGS"
 msgstr "抓取器设置"      
+
+msgid "INPUT MANUALLY"
+msgstr "手工输入"
+
+msgid "AUTO"
+msgstr "自动"
+
+msgid "THEME SYSCAROUSEL"
+msgstr "主题轮播"
+
+msgid "WHEEL"
+msgstr "转轮"
+
+msgid "VERTICAL"
+msgstr "垂直"
+
+msgid "BEFORE NAME"
+msgstr "名字前面"
+
+msgid "AFTER NAME"
+msgstr "名字后面"
+
+msgid "RESET CUSTOMIZATIONS"
+msgstr "重置定制选项"
+
+msgid "SCRAPE BEZEL (16:9)"
+msgstr "抓取外框(16:9)"
+
+msgid "EMUELEC SETTTINGS"
+msgstr "EMUELEC设置"
