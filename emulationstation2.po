@@ -435,7 +435,7 @@ msgid "FIND GAMES"
 msgstr "搜索游戏"
 
 msgid "Unknown"
-msgstr "未知的"
+msgstr "未知"
 
 msgid "YES"
 msgstr "是"
@@ -1299,7 +1299,7 @@ msgid "VIDEO DRIVER"
 msgstr ""
 
 msgid "THE BEZEL PROJECT"
-msgstr "框架项目"
+msgstr "外框项目"
 
 msgid "SELECT BEZELS TO INSTALL/REMOVE"
 msgstr ""
@@ -4394,10 +4394,10 @@ msgid "WATCH GAME"
 msgstr "观看游戏"
 
 msgid "SELECT BEZELS TO INSTALL/REMOVE"
-msgstr "选择BEZELS安装 / 卸载"
+msgstr "选择外框的安装 / 卸载"
 
 msgid "BEZELS UNINSTALLED SUCCESSFULLY"
-msgstr "BEZELS卸载成功"
+msgstr "外框卸载成功"
 
 msgid "VIEW OPTIONS"
 msgstr "视图选项"

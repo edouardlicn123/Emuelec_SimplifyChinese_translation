@@ -9,5 +9,7 @@ You don't need to be wait for the official translation update(for it is not tran
 those old translation problem from other contributors.Maybe they are right but it seems to be better in my way.
 
 这个翻译项目将会独立于官方版本，欢迎大家参与（虽然我觉得应该不会有人参与）。
-也欢迎中华民国及香港地区的朋友转为繁体版本。
+
+也歡迎正體中文用戶將本項目轉爲正體中文。
+
 并建议各位不要浪费时间在官方项目的翻译工作，官方项目的管理者对翻译事务并不热心而且长时间不合并翻译内容，我感觉他们觉得“翻译”不属于“开发”的一部分。
