@@ -5636,3 +5636,21 @@ msgstr "抓取外框(16:9)"
 
 msgid "EMUELEC SETTTINGS"
 msgstr "EMUELEC设置"
+
+msgid "SKIP TO THE NEXT SONG"
+msgstr "跳转到下一首音乐"
+
+msgid "NOW PLAYING"
+msgstr "现正播放"
+
+msgid "NEW GAME CREATES NEW SLOT"
+msgstr "新游戏创建新位置"
+
+msgid "NEW GAME OVERWRITES CURRENT SLOT"
+msgstr "新游戏覆盖当前位置"
+
+msgid "ALWAYS"
+msgstr "总是"
+
+msgid "IF NOT EMPTY"
+msgstr "如果非空"
