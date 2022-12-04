@@ -77,12 +77,6 @@ msgstr "手册"
 msgid "enter path to manual"
 msgstr "输入手册路径"
 
-msgid "Magazine"
-msgstr ""
-
-msgid "enter path to magazine"
-msgstr ""
-
 msgid "Map"
 msgstr "地图"
 
@@ -106,12 +100,6 @@ msgstr "包装盒封面"
 
 msgid "enter path to alt boxart"
 msgstr "输入包装盒封面路径"
-
-msgid "Box backside"
-msgstr ""
-
-msgid "enter path to box background"
-msgstr ""
 
 msgid "Wheel"
 msgstr "商标"
@@ -155,29 +143,17 @@ msgstr "游戏类型"
 msgid "enter game genre"
 msgstr "输入游戏类型"
 
-msgid "Game family"
-msgstr ""
-
-msgid "this game's game family"
-msgstr ""
-
-msgid "Genres"
-msgstr ""
-
-msgid "enter game genres"
-msgstr ""
-
 msgid "Arcade system"
 msgstr "游戏系统"
 
 msgid "this game's arcade system"
-msgstr ""
+msgstr "该游戏的街机系统"
 
 msgid "Players"
 msgstr "游玩人数"
 
 msgid "this game's number of players"
-msgstr ""
+msgstr "该游戏的游玩人数"
 
 msgid "Favorite"
 msgstr "收藏"
@@ -231,7 +207,7 @@ msgid "Languages"
 msgstr "语言"
 
 msgid "this game's languages"
-msgstr ""
+msgstr "该游戏的语言"
 
 msgid "Region"
 msgstr "区域"
@@ -1020,14 +996,6 @@ msgstr "需要联网"
 msgid "INVALID PARAMETERS"
 msgstr "参数无效"
 
-msgid "GAME MEDIA"
-msgstr ""
-
-msgid "VIEW GAME MAGAZINE"
-msgstr ""
-
-msgid "VIEW FULLSCREEN VIDEO"
-msgstr ""
 
 msgid "COMPATIBLE CORE(S)"
 msgstr "可兼容内核"
@@ -1382,7 +1350,7 @@ msgid "RGA SCALING"
 msgstr ""
 
 msgid "VENDOR"
-msgstr ""
+msgstr "厂商"
 
 msgid "RENDERER"
 msgstr ""
@@ -1574,6 +1542,9 @@ msgstr ""
 msgid "AUTO"
 msgstr "自动"
 
+msgid "auto"
+msgstr "自动"
+
 msgid "SWITCH A & B BUTTONS IN EMULATIONSTATION"
 msgstr "在EMULATIONSTATION中切换 A/B 按键"
 
@@ -1661,16 +1632,16 @@ msgid "POWER SAVER MODES"
 msgstr "省电模式"
 
 msgid "DISABLED"
-msgstr ""
+msgstr "禁用"
 
 msgid "DEFAULT"
-msgstr ""
+msgstr "默认"
 
 msgid "ENHANCED"
-msgstr "增强"
+msgstr "强化"
 
 msgid "INSTANT"
-msgstr ""
+msgstr "顷刻"
 
 
 msgid "SCREEN READER (TEXT TO SPEECH)"
@@ -1689,10 +1660,10 @@ msgid "Do you want to proceed?"
 msgstr "是否继续?"
 
 msgid "KODI SETTINGS"
-msgstr "KODI 设置"
+msgstr "KODI设置"
 
 msgid "ENABLE KODI"
-msgstr "启用 KODI"
+msgstr "启用KODI"
 
 msgid "LAUNCH KODI AT BOOT"
 msgstr "开机时进入KODI"
@@ -1716,16 +1687,16 @@ msgid "SCREEN ROTATION"
 msgstr ""
 
 msgid "0 DEGREES (AUTO)"
-msgstr ""
+msgstr "0度"
 
 msgid "90 DEGREES"
-msgstr ""
+msgstr "90度"
 
 msgid "180 DEGREES"
-msgstr ""
+msgstr "180度"
 
 msgid "270 DEGREES"
-msgstr ""
+msgstr "270度"
 
 msgid "BOOT SPLASH"
 msgstr ""
@@ -2105,15 +2076,6 @@ msgstr "显示帮助"
 msgid "SHOW BATTERY STATUS"
 msgstr "显示电池状态"
 
-msgid "ICON"
-msgstr ""
-
-msgid "ICON AND TEXT"
-msgstr ""
-
-msgid "IGNORE LEADING ARTICLES WHEN SORTING"
-msgstr ""
-
 msgid "VOLUME"
 msgstr "音量"
 
@@ -2164,42 +2126,6 @@ msgstr "已连接"
 
 msgid "NOT CONNECTED"
 msgstr "未连接"
-
-msgid "INTERNET STATUS"
-msgstr "网络状态"
-
-msgid "HOSTNAME"
-msgstr "主机名"
-
-msgid "ENABLE WIFI"
-msgstr "启用 WiFi"
-
-msgid "WIFI SSID"
-msgstr "WiFi 名称"
-
-msgid "WIFI KEY"
-msgstr "WiFi 密码"
-
-msgid "WIFI ENABLED"
-msgstr "WiFi 已启用"
-
-msgid "WIFI CONFIGURATION ERROR"
-msgstr "WiFi 配置错误"
-
-msgid "QUICK ACCESS"
-msgstr "快速进入"
-
-msgid "SKIP TO THE NEXT SONG"
-msgstr ""
-
-msgid "NOW PLAYING"
-msgstr ""
-
-msgid "LAUNCH SCREENSAVER"
-msgstr "启动屏保"
-
-msgid "VIEW USER'S MANUAL"
-msgstr ""
 
 msgid "RESTART SYSTEM"
 msgstr "重启"
@@ -3025,7 +2951,7 @@ msgid "EDIT THIS GAME'S METADATA"
 msgstr "编辑此游戏的信息"
 
 msgid "VIEW PAD TO KEYBOARD INFORMATION"
-msgstr ""
+msgstr "查看手柄对应键盘信息"
 
 msgid "THIS FUNCTION IS DISABLED WHEN SCRAPING IS RUNNING"
 msgstr "这项功能在抓取进行时禁用"
@@ -3108,17 +3034,14 @@ msgstr "FLATTEN-GLOW 着色器集"
 msgid "RGA SCALING"
 msgstr ""
 
-msgid "VENDOR"
-msgstr ""
-
 msgid "RENDERER"
-msgstr ""
+msgstr "显示渲染模块"
 
 msgid "VERSION"
 msgstr "版本"
 
 msgid "SHADERS"
-msgstr "SHADERS"
+msgstr "着色器"
 
 msgid "CONTROLLERS SETTINGS"
 msgstr "控制器设置"
@@ -3652,10 +3575,10 @@ msgstr ""
 "如果需要返回完整模式，请按顺序输入以下按键："
 
 msgid "KODI SETTINGS"
-msgstr "KODI 设置"
+msgstr "KODI设置"
 
 msgid "ENABLE KODI"
-msgstr "启用 KODI"
+msgstr "启用KODI"
 
 msgid "KODI AT START"
 msgstr "开机时进入KODI"
@@ -3877,7 +3800,7 @@ msgid "SMOOTH GAMES(BILINEAR FILTERING)"
 msgstr "图像平滑处理(双线性过滤)"
 
 msgid "ENABLE RA BEZELS"
-msgstr "启用 RA 边框"
+msgstr "启用RA边框"
 
 msgid "ENABLE MAX PERFORMANCE"
 msgstr "允许最大性能"
@@ -4089,9 +4012,6 @@ msgstr "图标"
 msgid "ICON AND TEXT"
 msgstr "图标和文字"
 
-msgid "IGNORE LEADING ARTICLES WHEN SORTING"
-msgstr ""
-
 msgid "VOLUME"
 msgstr "音量"
 
@@ -4150,19 +4070,19 @@ msgid "HOSTNAME"
 msgstr "主机名"
 
 msgid "ENABLE WIFI"
-msgstr "启用 WiFi"
+msgstr "启用WiFi"
 
 msgid "WIFI SSID"
-msgstr "WiFi 名称"
+msgstr "WiFi名称"
 
 msgid "WIFI KEY"
-msgstr "WiFi 密码"
+msgstr "WiFi密码"
 
 msgid "WIFI ENABLED"
-msgstr "WiFi 已启用"
+msgstr "WiFi已启用"
 
 msgid "WIFI CONFIGURATION ERROR"
-msgstr "WiFi 配置错误"
+msgstr "WiFi配置错误"
 
 msgid "QUICK ACCESS"
 msgstr "快速进入"
@@ -5191,10 +5111,7 @@ msgid "%s disconnected"
 msgstr "%s 已断开连接"
 
 msgid "ENABLED"
-msgstr "已启用"
-
-msgid "DISABLED"
-msgstr "已禁用"
+msgstr "启用"
 
 msgid "up/down"
 msgstr "上/下"
@@ -5378,7 +5295,7 @@ msgid "SCRAPER IS RUNNING. DO YOU WANT TO STOP IT?"
 msgstr "抓取运行中，你想要中止吗？"
 
 msgid "VIEW GAME MEDIA"
-msgstr "查看游戏媒体"         
+msgstr "观看游戏的媒体"         
 
 msgid "AUTO SAVE/LOAD ON GAME LAUNCH"
 msgstr "游戏启动时自动保存读取"   
@@ -5439,9 +5356,6 @@ msgstr "缺失"
  
 msgid "LIST TRANSITION STYLE"
 msgstr "列表的变换风格"
-                                 
-msgid "LIST TRANSITION STYLE"
-msgstr "列表的变换风格"      
 
 msgid "SHOW REGION FLAG"
 msgstr "显示区域旗帜"        
@@ -5648,3 +5562,138 @@ msgstr "如果非空"
 
 msgid "RETROARCH MENU"
 msgstr "RETROARCH菜单"
+
+msgid "USER INTERFACE SETTINGS"
+msgstr "用户界面设置"
+
+msgid "Force the game to render in this aspect ratio."
+msgstr "强制游戏以此比例渲染"
+
+msgid "Store past states to rewind to in realtime, if the core supports it."
+msgstr "存储最近的存档以实时返回，前提是核心支持此功能"
+
+msgid "Load latest savestate on game launch and savestate when exiting game."
+msgstr "游戏启动时载入最近的存档并在退出游戏时存档"
+
+msgid "SHOW SAVESTATE MANAGER"
+msgstr "显示存档管理器"
+
+msgid "Display savestate manager before launching a game."
+msgstr "启动游戏前显示存档管理器"
+
+msgid "COMMUNITY RATING"
+msgstr "社群评分"
+
+msgid "VIDEO"
+msgstr "视频"
+
+msgid "FANART"
+msgstr "粉丝作画"
+
+msgid "BEZEL (16:9)"
+msgstr "外框（16:9）"
+
+msgid "BOX BACKSIDE"
+msgstr "盒子后背"
+
+msgid "MAP"
+msgstr ""
+
+msgid "MANUAL"
+msgstr "手册"
+
+msgid "PADTOKEY SETTINGS"
+msgstr "按键对应设置"
+
+msgid "SCRAPER"
+msgstr "抓取器"
+
+msgid "SCRAPING DATABASE"
+msgstr "抓取数据库"
+
+msgid "LANGUAGE (REGION)"
+msgstr "语言（区域）"
+
+msgid "POWER SAVING MODE"
+msgstr "省电模式"
+
+msgid "Reduces power consumption when idle (useful for handhelds)."
+msgstr "空闲时节省能源（对掌机特别有用）"
+
+msgid "USER INTERFACE MODE"
+msgstr "用户界面模式"
+
+msgid "Lock down certain config menus for use with guest users/kids."
+msgstr "对客人和小孩锁住部分设置"
+
+msgid "FRONTEND DEVELOPER OPTIONS"
+msgstr "前端开发者选项"
+
+msgid "Also turns on the emulator's native FPS counter, if available."
+msgstr "如果可以的话开启模拟器的内置帧数计数器"
+
+msgid "ENABLE GAME FILTERING"
+msgstr "启动游戏过滤"
+
+msgid ""
+"Whether to show or hide game filtering related settings in the view options."
+msgstr ""
+"在查看选项中是否显示或者隐藏游戏过滤相关设置。"
+
+msgid "PARSE GAMELISTS ONLY"
+msgstr "只分析游戏列表"
+
+msgid "Debug tool: Don't check if the ROMs actually exist. Can cause problems!"
+msgstr "Debug工具：ROM存在时不检查，有可能产生问题！"
+
+msgid ""
+"If no image is specified in the gamelist, try to find media with the same "
+"filename to use."
+msgstr ""
+"如果游戏列表里没有指定图像，尝试查找相同"
+"文件名使用。"
+
+msgid "USER INTERFACE"
+msgstr "用户界面"
+
+msgid "LIST TRANSITION"
+msgstr "列表转换模式"
+
+msgid "Ignore 'The' and 'A' if at the start."
+msgstr "“The”和“A”在开头时忽略"
+
+msgid "INCREMENTAL SAVESTATES"
+msgstr "递进存档"
+
+msgid "INCREMENT PER SAVE"
+msgstr "每个存档名称递进"
+
+msgid "Never overwrite old savestates, always make new ones."
+msgstr "从不覆盖旧存档，总是创建新存档"
+
+msgid "INCREMENT SLOT"
+msgstr "递进存档位"
+
+msgid "Increment slot on a new game."
+msgstr "新游戏中递进存档位"
+
+msgid "DO NOT INCREMENT"
+msgstr "不递进"
+
+msgid "Use current slot on a new game."
+msgstr "在新游戏中使用现有存档"
+
+#msgid "D-PAD UP"
+#msgstr "方向键上"
+
+#msgid "D-PAD DOWN"
+#msgstr "方向键下"
+
+#msgid "D-PAD LEFT"
+#msgstr "方向键左"
+
+#msgid "D-PAD RIGHT"
+#msgstr "方向键右"
+
+#msgid "BUTTON A/EAST"
+#msgstr "B（或PS手柄O）"
