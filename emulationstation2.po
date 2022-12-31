@@ -462,7 +462,7 @@ msgid "ALPHABETICALLY"
 msgstr "按字母排序"
 
 msgid "BY MANUFACTURER"
-msgstr "按制造商"
+msgstr "按开发商"
 
 msgid "BY HARDWARE TYPE"
 msgstr "按硬件类型"
@@ -772,9 +772,6 @@ msgid "CONTENT DOWNLOADER"
 msgstr "下载内容"
 
 msgid "SELECT CONTENT TO INSTALL/REMOVE"
-msgstr ""
-
-msgid "UPDATE INSTALLED CONTENT"
 msgstr ""
 
 msgid "No items"
@@ -1828,19 +1825,7 @@ msgid "DECORATION SET"
 msgstr ""
 
 msgid "Current setting"
-msgstr ""
-
-msgid "DEFAULT GLOBAL SETTINGS"
-msgstr ""
-
-msgid "GAME ASPECT RATIO"
-msgstr ""
-
-msgid "VIDEO MODE"
-msgstr "视频模式"
-
-msgid "SMOOTH GAMES (BILINEAR FILTERING)"
-msgstr ""
+msgstr "当前设定"
 
 msgid "REWIND"
 msgstr "倒带功能"
@@ -2247,22 +2232,19 @@ msgid "ERROR: EVERY SYSTEM IS HIDDEN, RE-DISPLAYING ALL OF THEM NOW"
 msgstr "错误：每个系统都被隐藏，现在重新显示"
 
 msgid "QUICK SEARCH"
-msgstr "迅速搜"
+msgstr "快捷搜索"
 
 msgid "GO TO LETTER"
-msgstr ""
+msgstr "按字母索引"
 
 msgid "GO TO MANUFACTURER"
-msgstr "访问制造商"
+msgstr "开发商及平台索引"
 
 msgid "GO TO HARDWARE"
-msgstr ""
+msgstr "按硬件索引"
 
 msgid "GO TO DECADE"
-msgstr ""
-
-msgid "CONFIGURATION"
-msgstr ""
+msgstr "按年代索引"
 
 #, c-format
 msgid "%i COLLECTION"
@@ -2334,9 +2316,6 @@ msgstr[0] ""
 
 msgid "No Entries Found"
 msgstr "找不到条目"
-
-msgid "Games similar to"
-msgstr ""
 
 msgid "SAVE STATES (HOLD)"
 msgstr ""
@@ -2721,7 +2700,7 @@ msgid "SORT COLLECTIONS AND SYSTEMS"
 msgstr "合辑和系统分类"
 
 msgid "ALPHABETICALLY"
-msgstr "按字母排序"
+msgstr "按字母顺序"
 
 msgid "BY MANUFACTURER"
 msgstr "按制造商"
@@ -2730,7 +2709,7 @@ msgid "BY HARDWARE TYPE"
 msgstr "按硬件类型"
 
 msgid "BY RELEASE YEAR"
-msgstr "按发布年"
+msgstr "按发布年份"
 
 msgid "SORT SYSTEMS"
 msgstr "系统分类"
@@ -4630,7 +4609,7 @@ msgid "None"
 msgstr "无"
 
 msgid "Various"
-msgstr "多开发商"
+msgstr "多个开发商"
 
 #, c-format
 msgid "This collection contains %i game, including :%s"
@@ -4742,23 +4721,8 @@ msgstr "系统信息"
 msgid "ERROR: EVERY SYSTEM IS HIDDEN, RE-DISPLAYING ALL OF THEM NOW"
 msgstr "错误：每个系统都被隐藏，现在重新显示"
 
-msgid "QUICK SEARCH"
-msgstr "快速搜索"
-
-msgid "GO TO LETTER"
-msgstr ""
-
-msgid "GO TO MANUFACTURER"
-msgstr "访问制造商"
-
-msgid "GO TO HARDWARE"
-msgstr ""
-
-msgid "GO TO DECADE"
-msgstr ""
-
 msgid "CONFIGURATION"
-msgstr ""
+msgstr "设置"
 
 #, c-format
 msgid "%i COLLECTION"
@@ -5513,7 +5477,7 @@ msgid "UPDATE AVAILABLE"
 msgstr "发现可用更新"
 
 msgid "SCRAPER SETTINGS"
-msgstr "抓取器设置"      
+msgstr "抓取工具设置"      
 
 msgid "INPUT MANUALLY"
 msgstr "手工输入"
@@ -5606,7 +5570,7 @@ msgid "PADTOKEY SETTINGS"
 msgstr "按键对应设置"
 
 msgid "SCRAPER"
-msgstr "抓取器"
+msgstr "元数据抓取工具"
 
 msgid "SCRAPING DATABASE"
 msgstr "抓取数据库"
@@ -5683,17 +5647,120 @@ msgstr "不递进"
 msgid "Use current slot on a new game."
 msgstr "在新游戏中使用现有存档"
 
-#msgid "D-PAD UP"
-#msgstr "方向键上"
+msgid ""
+"WARNING THIS WILL RESTART EMULATIONSTATION!\n\n"
+"AFTER THE SCRIPT IS DONE REMEMBER TO COPY THE FILE /storage/downloads/ee_backup_config.zip TO SOME PLACE SAFE OR IT WILL BE DELETED ON NEXT REBOOT!\n\n"
+"BACKUP CURRENT CONFIG AND RESTART?"
+msgstr ""
+"警告，这会重启EMULATIONSTATION!\n\n"
+"此脚本完成后记得复制文件/storage/downloads/ee_backup_config.zip到安全的地方，它会在再次重启后删除。\n\n"
+"备份当前设置并重启?"
 
-#msgid "D-PAD DOWN"
-#msgstr "方向键下"
+msgid "SHOW EMPTY SYSTEMS"
+msgstr "显示没有游戏的系统"
 
-#msgid "D-PAD LEFT"
-#msgstr "方向键左"
+msgid "ADD TO CUSTOM COLLECTION..."
+msgstr "添加到自定义收藏集..."
 
-#msgid "D-PAD RIGHT"
-#msgstr "方向键右"
+msgctxt "joystick"
+msgid "D-PAD UP"
+msgstr "方向键上"
 
-#msgid "BUTTON A/EAST"
-#msgstr "B（或PS手柄O）"
+msgctxt "joystick"
+msgid "D-PAD DOWN"
+msgstr "方向键下"
+
+msgctxt "joystick"
+msgid "D-PAD LEFT"
+msgstr "方向键左"
+
+msgctxt "joystick"
+msgid "D-PAD RIGHT"
+msgstr "方向键右"
+
+msgctxt "joystick"
+msgid "START"
+msgstr "开始"
+
+msgctxt "joystick"
+msgid "SELECT"
+msgstr "选择"
+
+msgctxt "joystick"
+msgid "BUTTON A / EAST"
+msgstr "按键 A/O"
+
+msgctxt "joystick"
+msgid "BUTTON B / SOUTH"
+msgstr "按键 B/X"
+
+msgctxt "joystick"
+msgid "BUTTON X / NORTH"
+msgstr "按键 X/Δ"
+
+msgctxt "joystick"
+msgid "BUTTON Y / WEST"
+msgstr "按键 Y/□"
+
+msgctxt "joystick"
+msgid "LEFT SHOULDER"
+msgstr "左肩/L1"
+
+msgctxt "joystick"
+msgid "RIGHT SHOULDER"
+msgstr "右肩/R1"
+
+msgctxt "joystick"
+msgid "LEFT TRIGGER"
+msgstr "左扳机/L2"
+
+msgctxt "joystick"
+msgid "RIGHT TRIGGER"
+msgstr "右扳机/R2"
+
+msgctxt "joystick"
+msgid "LEFT THUMB"
+msgstr "左摇杆中间按下/L3"
+
+msgctxt "joystick"
+msgid "RIGHT THUMB"
+msgstr "右摇杆中间按下/R3"
+
+msgctxt "joystick"
+msgid "LEFT ANALOG UP"
+msgstr "左摇杆向上"
+
+msgctxt "joystick"
+msgid "LEFT ANALOG DOWN"
+msgstr "左摇杆向下"
+
+msgctxt "joystick"
+msgid "LEFT ANALOG LEFT"
+msgstr "左摇杆向左"
+
+msgctxt "joystick"
+msgid "LEFT ANALOG RIGHT"
+msgstr "左摇杆向右"
+
+msgctxt "joystick"
+msgid "RIGHT ANALOG UP"
+msgstr "右摇杆向上"
+
+msgctxt "joystick"
+msgid "RIGHT ANALOG DOWN"
+msgstr "右摇杆向下"
+
+msgctxt "joystick"
+msgid "RIGHT ANALOG LEFT"
+msgstr "右摇杆向左"
+
+msgctxt "joystick"
+msgid "RIGHT ANALOG RIGHT"
+msgstr "右摇杆向右"
+
+msgctxt "joystick"
+msgid "HOTKEY ENABLE"
+msgstr "热键(默认为选择键)"
+
+msgid "NAVIGATION BAR"
+msgstr "导航栏"
